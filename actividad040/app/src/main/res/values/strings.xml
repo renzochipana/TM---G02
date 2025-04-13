@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">actividad040</string>
+    <string name="nombre_del_presidente">Nombre del presidente</string>
+    <string name="escribe_el_nombre_de_un_presidente">Escribe el nombre de un presidente</string>
+</resources>
